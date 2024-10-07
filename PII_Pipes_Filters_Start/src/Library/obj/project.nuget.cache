@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UUF8Xhkii2VEy31/zAmX5n2hN0wQDNIzSqRv0WsHvnY/5GWCybfxoRxSm8cvOLsB9VxB8squNPx9nTJ8KEq5Iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tinch\\OneDrive\\Escritorio\\Pipes\\PII_Pipes_Filters_Start\\src\\Library\\Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tinch\\.nuget\\packages\\sixlabors.imagesharp\\3.1.5\\sixlabors.imagesharp.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>PipesAndFilters</AssemblyName>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="SixLabors.ImageSharp" Version="3.1.5" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Ucu.Poo.Twitter">
+      <HintPath>..\..\..\PII_TwitterApi\src\Library\bin\Debug\net8.0\Ucu.Poo.Twitter.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
